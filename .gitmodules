@@ -1,6 +1,6 @@
 [submodule "fitness-app-backend"]
 	path = fitness-app-backend
-	url = https://github.com/Simeon681/fitness-app-backend/tree/dev
+	url = https://github.com/Simeon681/fitness-app-backend
 [submodule "fitness-app-frontend"]
 	path = fitness-app-frontend
 	url = https://github.com/Simeon681/fitness-app-frontend
