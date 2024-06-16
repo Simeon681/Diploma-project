@@ -1,1 +1,1 @@
-# Diploma-project
+# FitnessApp1 - Fitness mobile app
